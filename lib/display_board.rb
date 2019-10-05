@@ -8,6 +8,8 @@ end
 
 puts display_board
 
-board = ["X", "x", " ", " ", " ", " ", " ", " ", " "]
+board = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts display_board(board)
+
+board = ["X", " ", " ", " ", " ", "O", " ", " ", " "]
