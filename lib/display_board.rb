@@ -13,3 +13,8 @@ board = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
 puts display_board(board)
 
 board = ["X", " ", " ", " ", " ", "O", " ", " ", " "]
+
+puts display_board(board)
+
+
+
