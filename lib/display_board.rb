@@ -10,4 +10,4 @@ puts display_board
 
 board = ["X", "x", " ", " ", " ", " ", " ", " ", " "]
 
-puts display_board
+puts display_board(board)
